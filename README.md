@@ -1,0 +1,2 @@
+# snowflake-declarative-dynamic-tables
+***
